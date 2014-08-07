@@ -1,1 +1,7 @@
-No ARC.
+
+ARC: No
+Deployment Target: iOS 6
+Universal: Yes
+Images: Lazy Load
+Orientation: Portrait and Landscape
+Xib/Storyboard: No
